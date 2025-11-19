@@ -1,8 +1,9 @@
-﻿# Term_Project
+﻿# Term_Project （group 10）
 
 Global Phone Commerce Website
 
-This is my term project — a simple, full-stack commerce website designed to sell phones in both China and America. The goal of the project is to show how a single platform can support multiple regions, different currencies, and localized product info while keeping the shopping experience smooth and modern.
+This is our term project — a simple, full-stack commerce website designed to sell phones in both China and America. The goal of the project is to show how a single platform can support multiple regions, different currencies, and localized product info while keeping the shopping experience smooth and modern.
+These are knockoff versions though.
 
 # Features
 
@@ -21,3 +22,5 @@ This is my term project — a simple, full-stack commerce website designed to se
 # Purpose
 
 This project demonstrates basic e-commerce functionality, internationalization support, and full-stack development skills for a term project.
+
+
