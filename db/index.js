@@ -22,4 +22,4 @@ async function getActiveProducts() {
 module.exports = {
   db,
   getActiveProducts
-};
+}；
